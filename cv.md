@@ -17,7 +17,7 @@ GitHub: [AdamMalec](https://github.com/AdamMalec)
 ---
 
 ### **About Me:**
-Since 2018 I have been interested in web development. A lot of my skills in this sphere were acquired by self-learning. I am also Interested in UX/UI design. I'm passionate about merging my technical abilities with design knowledge to deliver outstanding results and create amazing interfaces.
+Since 2018 I have been interested in web development. A lot of my skills in this sphere were acquired by self-learning. Also Interested in UX/UI design. I'm passionate about merging my technical abilities with design knowledge to deliver outstanding results and create amazing interfaces.
 
 ---
 
