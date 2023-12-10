@@ -1,14 +1,10 @@
 ## **Adam Malec**
 
-#### Frontend Developer
-
 ---
 
 ### **Contact information:**
 
 E-mail: add.malec@gmail.com
-
-Telegram: @fore_more_12
 
 Discord: AdamMalec#5963
 
